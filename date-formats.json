@@ -1,0 +1,34 @@
+[
+    {
+        "php_format": "Y M d",
+        "js_format": "YYYY MMM DD"
+    },
+    {
+        "php_format": "d M Y",
+        "js_format": "DD MMM YYYY"
+    },
+    {
+        "php_format": "d/m/Y",
+        "js_format": "DD/MM/YYYY"
+    },
+    {
+        "php_format": "d.m.Y",
+        "js_format": "DD.MM.YYYY"
+    },
+    {
+        "php_format": "d-m-Y",
+        "js_format": "DD-MM-YYYY"
+    },
+    {
+        "php_format": "m/d/Y",
+        "js_format": "MM/DD/YYYY"
+    },
+    {
+        "php_format": "Y/m/d",
+        "js_format": " YYYY/MM/DD"
+    },
+    {
+        "php_format": "Y-m-d",
+        "js_format": "YYYY-MM-DD"
+    }
+]
