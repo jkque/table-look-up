@@ -8,6 +8,10 @@
         "js_format": "DD MMM YYYY"
     },
     {
+        "php_format": "M d Y",
+        "js_format": "MMM DD YYYY"
+    },
+    {
         "php_format": "d/m/Y",
         "js_format": "DD/MM/YYYY"
     },
